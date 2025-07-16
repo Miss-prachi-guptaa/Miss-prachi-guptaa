@@ -1,8 +1,7 @@
-👋 Hi, I’m Prachi Gupta
-💻 Frontend developer exploring Node.js and backend tech
-🎨 I love crafting interactive and intuitive user interfaces
-🚀 Currently building full stack projects to expand my skills
-✨ Turning ideas into meaningful digital experiences
+👋 Hi, I’m Prachi Gupta  
+💻 Frontend developer passionate about clean, responsive UI  
+🌱 Currently exploring Node.js & backend fundamentals  
+✨ I love turning ideas into interactive web experiences  
 🌱 Always learning | Coffee + Code = ❤️
 
 
