@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Miss-prachi-guptaa
-- 👀  I’m interested in frontend development and building interactive web applications.
-- 🌱 I’m currently learning Node.js to strengthen my backend skills.
-- ⚡ Fun fact: I love transforming ideas into interactive web experiences!
+👋 Hi, I’m Prachi Gupta
+💻 Frontend developer exploring Node.js and backend tech
+🎨 I love crafting interactive and intuitive user interfaces
+🚀 Currently building full stack projects to expand my skills
+✨ Turning ideas into meaningful digital experiences
+🌱 Always learning | Coffee + Code = ❤️
+
+
 
 <!---
 Miss-prachi-guptaa/Miss-prachi-guptaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
