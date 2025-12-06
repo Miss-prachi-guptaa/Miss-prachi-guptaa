@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Prachi Gupta</h1>
-<h3 align="center">Backend Developer | Exploring GenAI & LLMs</h3>
+<h3 align="center">Full Stack  Developer | CSE @Bundelkhand University</h3>
 
 ---
 
