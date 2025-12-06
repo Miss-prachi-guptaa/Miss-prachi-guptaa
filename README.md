@@ -1,73 +1,94 @@
-# Hi 👋, I'm Prachi Gupta
-Backend Developer | Exploring GenAI & LLMs  
-
----
-
-## 🚀 About Me  
-🌱 Currently learning **Node.js**, backend fundamentals & system architecture  
-🤖 Exploring **GenAI**, **LLMs**, and intelligent app development  
-💡 Passionate about building interactive, scalable, and AI-driven applications  
-👯 Open to collaborating on **backend projects**, **GenAI apps**, and **full-stack ideas**  
-📫 Reach me at: yourmail@example.com  
-😄 Pronouns: She/Her  
-
----
-
-## 💼 Tech Stack
-
-### 🧩 Frontend  
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</div>
-
-### ⚙️ Backend  
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</div>
-
-### 🛢️ Databases  
-<div>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</div>
-
-### 🤖 AI / GenAI  
-- Large Language Models (LLMs)  
-- Prompt Engineering  
-- AI-driven backend apps  
-- GenAI + web integration  
-
-### ☁️ Hosting  
-<div>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</div>
-
-### 🧰 Tools & Platforms  
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</div>
-
----
-
-## 🌟 Featured Projects  
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **AI-Powered Chatbot** | A chatbot using LLM APIs to answer queries intelligently | Node.js, Express, AI API | Coming Soon |
-| **Full-Stack Task Manager** | Task management app with authentication & backend APIs | React, Node.js, MongoDB | Coming Soon |
-| **Portfolio Website** | Personal portfolio website with modern UI | HTML, CSS, JS | GitHub Repo (if any) |
-
----
-
-## 📊 GitHub Stats  
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+Hola,+World!+%2F%3E;Welcome+to+my+GitHub+Profile!&center=true&size=28&color=00eaff">
+</p>
+
+<h1 align="center">Hi 👋, I'm Prachi Gupta</h1>
+<h3 align="center">Backend Developer | Exploring GenAI & LLMs</h3>
+
+---
+
+<!-- Social buttons -->
+<p align="center">
+  <a href="mailto:pgupta2543@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Miss-prachi-guptaa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/prachi-gupta-b69193294"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/21PrachiGupta"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🏅 Badges  
+## 🚀 About Me  
+
+- 🌱 I’m currently learning **Backend Development (Node.js, Express)**  
+- 🤖 Exploring **GenAI, LLMs, and AI-powered applications**  
+- 👯 Open to collaborations on **Backend + AI projects**  
+- 💡 I love building clean UI + powerful backend systems  
+- 📫 Reach me at: **yourmail@example.com**  
+- 😄 Pronouns: **She/Her**
+
+---
+
+# 💼 Tech Stack  
+
+## 🧩 Frontend  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+---
+
+## ⚙️ Backend  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+---
+
+## 🛢️ Databases & Caching  
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white" />
+
+---
+
+## ☁️ Hosting  
+<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+
+---
+
+## 🧰 Tools & Platforms  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white" />
+
+---
+
+# 🌟 Featured Projects  
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **AI Chatbot** | Chatbot using LLM API for intelligent responses | Node.js, Express, AI API | Coming Soon |
+| **Task Manager** | Full-stack CRUD Task Manager | React, Node.js, MongoDB | Coming Soon |
+| **Portfolio Website** | Personal portfolio website | HTML, CSS, JS | Coming Soon |
+
+---
+
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+# 🏅 Badges  
 [![Holopin Badges](https://holopin.me/missprachiguptaa)](https://holopin.io/@missprachiguptaa)
 
 ---
 
-<p align="center">✨ Always learning. Always building. Always improving. ✨</p>
+<p align="center">✨ Always Learning • Always Building • Always Improving ✨</p>
