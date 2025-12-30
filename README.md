@@ -20,11 +20,11 @@
 
 ## 🚀 About Me  
 
-- 🌱 I’m currently learning **Backend Development (Node.js, Express)**  
+- 🌱  **Backend Developer(Node.js, Express)**  
 - 🤖 Exploring **GenAI, LLMs, and AI-powered applications**  
 - 👯 Open to collaborations on **Backend + AI projects**  
 - 💡 I love building clean UI + powerful backend systems  
-- 📫 Reach me at: **pgupta2543@example.com**  
+- 📫 Reach me at: **pgupta2543@gmail.com**  
 - 😄 Pronouns: **She/Her**
 
 ---
