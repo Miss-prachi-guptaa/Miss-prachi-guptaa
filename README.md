@@ -74,9 +74,9 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **AI Chatbot** | Chatbot using LLM API for intelligent responses | React ,Node.js, Express,Mongoose, GenAi,websocket  | Coming Soon |
-| **Task Manager** | Full-stack CRUD Task Manager | React, Node.js, MongoDB | Coming Soon |
-| **Portfolio Website** | Personal portfolio website | HTML, CSS, JS | Coming Soon |
+| **AIPdfConnect** | Chatbot using LLM API for intelligent responses | React ,Node.js, Express,Mongoose, GenAi,websocket  |[(https://techdiary-one.vercel.app/)](https://github.com/Miss-prachi-guptaa/Ai-Pdf-Assistant) |
+| **Tech Diary** | Full-stack Blog Website | React, Node.js, MongoDB | (https://techdiary-one.vercel.app/) |
+| **Portfolio Website** | Personal portfolio website | JS,Reactjs,Emailjs |(https://prachi-portfolio-two.vercel.app/) |
 
 ---
 
