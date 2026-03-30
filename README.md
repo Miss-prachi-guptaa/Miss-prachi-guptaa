@@ -32,7 +32,7 @@
 ## 🚀 About Me  
 
 - 🌱  **Backend Developer(Node.js, Express)**  
-- 🤖 Exploring **GenAI, LLMs, and AI-powered applications**  
+- 🤖🚀 Building **AI-powered systems using embeddings, vector search (HNSW), and scalable backend architecture**  
 - 👯 Open to collaborations on **Backend + AI projects**  
 - 💡 I love building clean UI + powerful backend systems  
 - 📫 Reach me at: **pgupta2543@gmail.com**  
