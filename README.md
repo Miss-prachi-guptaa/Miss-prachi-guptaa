@@ -73,10 +73,10 @@
 # 🌟 Featured Projects  
 
 | Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **AIPdfConnect** | Chatbot using LLM API for intelligent responses | React ,Node.js, Express,Mongoose, GenAi,websocket  |[(https://techdiary-one.vercel.app/)](https://github.com/Miss-prachi-guptaa/Ai-Pdf-Assistant) |
-| **Tech Diary** | Full-stack Blog Website | React, Node.js, MongoDB | (https://techdiary-one.vercel.app/) |
-| **Portfolio Website** | Personal portfolio website | JS,Reactjs,Emailjs |(https://prachi-portfolio-two.vercel.app/) |
+|----------|-------------|-------------|------|
+| **CineQuery AI** | Hybrid movie intelligence system using Neo4j graph queries + vector search for semantic and relational movie retrieval with AI-powered recommendations | React, Node.js, Neo4j, MongoDB, LLM, Vector Search, HuggingFace | [Live](https://cine-query-ai.vercel.app/) \| [GitHub](https://github.com/Miss-prachi-guptaa/CineQuery-Ai) |
+| **Tech Diary** | Full-stack Blog Website with semantic search, recommendations, JWT authentication, and admin dashboard | React, Node.js, Express, MongoDB, Redis, BullMQ | [Live](https://techdiary-one.vercel.app/) |
+| **Portfolio Website** | Personal portfolio website showcasing projects, skills, and experience | JS, ReactJS, EmailJS | [Live](https://prachi-portfolio-two.vercel.app/) |
 
 ---
 
