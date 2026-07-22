@@ -59,7 +59,7 @@ Backend Developer • Full Stack Developer • AI Enthusiast
 
 <p>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js"/>
 
 </p>
 
