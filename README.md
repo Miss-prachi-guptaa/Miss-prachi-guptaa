@@ -1,100 +1,158 @@
-<!-- Banner -->
+<!-- Animated Header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+Hola,+World!+%2F%3E;Welcome+to+my+GitHub+Profile!&center=true&size=28&color=00eaff">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Prachi+Gupta;Backend+Developer+%7C+Full+Stack+Developer;AI+%26+LLM+Enthusiast;Building+Scalable+Backend+Systems" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Prachi Gupta</h1>
-<h3 align="center">Full Stack  Developer | CSE @Bundelkhand University</h3>
-
----
-
-<!-- Social buttons -->
 <p align="center">
-  <a href="mailto:pgupta2543@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=170&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-  <a href="https://github.com/Miss-prachi-guptaa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<h1 align="center">Hi 👋 I'm Prachi Gupta</h1>
 
-  <a href="https://www.linkedin.com/in/prachi-gupta-b69193294">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<h3 align="center">
+Backend Developer • Full Stack Developer • AI Enthusiast
+</h3>
 
-  <a href="https://x.com/21PrachiGup">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+<p align="center">
+
+<a href="mailto:pgupta2543@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Miss-prachi-guptaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/prachi-gupta-b69193294">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/21PrachiGup">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Miss-prachi-guptaa&style=for-the-badge&color=blueviolet"/>
+</p>
+# 🚀 About Me
+
+- 🌱 Backend Developer (Node.js, Express, Laravel)
+
+- 🤖 Building AI-powered applications using RAG, LLMs, Vector Search & Graph Databases
+
+- 🚀 Interested in scalable backend architecture & distributed systems
+
+- 💻 Love building beautiful frontends with powerful backends
+
+- 👯 Open to Backend, AI & Open Source collaborations
+
+- 📫 Email: **pgupta2543@gmail.com**
+
+- ⚡ Fun Fact: I enjoy turning ideas into real-world products.
+
+- # 💻 Tech Stack
+
+### 🎨 Frontend
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js"/>
+
 </p>
 
 ---
 
-## 🚀 About Me  
+### ⚙️ Backend
 
-- 🌱  **Backend Developer(Node.js, Express)**  
-- 🤖🚀 Building **AI-powered systems using embeddings, vector search (HNSW), and scalable backend architecture**  
-- 👯 Open to collaborations on **Backend + AI projects**  
-- 💡 I love building clean UI + powerful backend systems  
-- 📫 Reach me at: **pgupta2543@gmail.com**  
-- 😄 Pronouns: **She/Her**
+<p>
 
----
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/><img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/><img src="https://img.shields.io/badge/Multer-yellow?style=for-the-badge"/><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
 
-# 💼 Tech Stack  
-
-## 🧩 Frontend  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-
-
-
----
-
-## ⚙️ Backend  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" /><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /><img src="https://img.shields.io/badge/Multer-FFCA28?style=for-the-badge" /><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-
----
-
-## 🛢️ Databases & Caching  
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white" />
-
----
-
-## ☁️ Hosting  
-<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-
----
-
-## 🧰 Tools & Platforms  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /><img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /><img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
-
----
-
-# 🌟 Featured Projects  
-
-| Project | Description | Tech Stack | Link |
-|----------|-------------|-------------|------|
-| **CineQuery AI** | Hybrid movie intelligence system using Neo4j graph queries + vector search for semantic and relational movie retrieval with AI-powered recommendations | React, Node.js, Neo4j, MongoDB, LLM, Vector Search, HuggingFace | [Live](https://cine-query-ai.vercel.app/) \| [GitHub](https://github.com/Miss-prachi-guptaa/CineQuery-Ai) |
-| **Tech Diary** | Full-stack Blog Website with semantic search, recommendations, JWT authentication, and admin dashboard | React, Node.js, Express, MongoDB, Redis, BullMQ | [Live](https://techdiary-one.vercel.app/) |
-| **Portfolio Website** | Personal portfolio website showcasing projects, skills, and experience | JS, ReactJS, EmailJS | [Live](https://prachi-portfolio-two.vercel.app/) |
-
----
-
-# 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miss-prachi-guptaa&show_icons=true&theme=tokyonight" height="160"/>
-  <br>GitHub Stats
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miss-prachi-guptaa&theme=tokyonight" height="160"/>
-  <br>Contribution Streak
 </p>
 
+---
+
+### 🤖 AI / LLM
+
+<p>
+
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/><img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge"/><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain"/><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/><img src="https://img.shields.io/badge/Embeddings-00A67E?style=for-the-badge"/><img src="https://img.shields.io/badge/Vector_Search-EF4444?style=for-the-badge"/><img src="https://img.shields.io/badge/HNSW-2563EB?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🏅 Badges  
-[![Holopin Badges](https://holopin.me/missprachiguptaa)](https://holopin.io/@missprachiguptaa)
+### 🗄 Database
+
+<p>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/><img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j"/><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+
+</p>
 
 ---
 
-<p align="center">✨ Always Learning • Always Building • Always Improving ✨</p>
+### ☁ Deployment
+
+<p>
+
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
+
+</p>
+
+---
+
+### 🛠 Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp"/><img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer"/>
+
+</p>
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Miss-prachi-guptaa&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miss-prachi-guptaa&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miss-prachi-guptaa&theme=tokyonight"/>
+
+</p>
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Miss-prachi-guptaa&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Miss-prachi-guptaa&theme=tokyo-night"/>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+# ✨ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
